@@ -1,0 +1,6 @@
+type,name,description,context,object_refs
+grouping,Cryptocurrency Wallet Security Measures,A comprehensive grouping of security measures and best practices for securing cryptocurrency wallets.,crypto-wallet-security,"wallet123, wallet124, wallet125"
+grouping,DeepFake Detection Toolkit,A focused collection of methodologies and tools for detecting deep fake videos and images.,deep-fake-detection-guidelines,"guide123, guide124, guide125"
+grouping,Interstellar Mining Innovations,A curated collection of pioneering mining projects aiming at harvesting resources from exo-planets and asteroids.,exo-planetary-mining-projects,"project123, project124, project125"
+grouping,Deep Ocean Colonization Efforts,"A collective overview of projects and technologies aimed at expanding human habitats into the deep ocean, focusing on sustainability and innovation.",underwater-habitat-expansion,"habitat123, habitat124, habitat125"
+grouping,Dreamscape Exploration Technologies,"An exploration into technologies that enable the analysis and interpretation of synthetic dreams, promoting advancements in understanding subconscious thought processes.",synthetic-dream-analysis,"dream123, dream124, dream125"
