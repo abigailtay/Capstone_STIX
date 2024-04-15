@@ -1,0 +1,2 @@
+type,name,description,indicator_types,pattern,pattern_type,pattern_version,valid_from,valid_until,kill_chain_phases
+indicator,Solar Flare Detection,Tracks the digital footprint related to the Solar Flare exploit kit across various platforms.,malicious-activity,file:hashes.'MD5' = 'd413b8ce2c1e1b6b4f53b7c9cf45f50e',stix,1.2,2020-07-20T00:00:00Z,2030-12-31T23:59:59Z,"delivery,exploitation"
